@@ -10,6 +10,8 @@ The loss function defined for training the networks is based on spatial and temp
 
 ![figure 1](/images/deepvo/1.png)
 
+## Introduction
+
 model-based methods tend to be sensitive to camera parameters and fragile in challenging settings, e.g., featureless places, motion blurs and lighting changes.
 
 data-driven VO or deep learning based VO has drawn significant attention due to its potentials in learning capability and the robustness to camera parameters and challenging environments.
