@@ -1,0 +1,1 @@
+# Implicit domain adaptation with conditional generative adversarial networks for depth prediction in endoscopy
